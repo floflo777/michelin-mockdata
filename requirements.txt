@@ -1,0 +1,4 @@
+python-socketio==5.7.2
+bleak==0.20.2
+pycycling==0.2.0
+

@@ -1,2 +1,2 @@
-worker: python PrezTest.py
+#worker: python PrezTest.py
 
